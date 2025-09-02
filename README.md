@@ -1,2 +1,2 @@
-# Task-03_Deloitte_daikibo-telemetry-data
+# Deloitte_daikibo-telemetry-data
 Daikibo Telemetry Data 
